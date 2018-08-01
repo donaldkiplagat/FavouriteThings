@@ -1,16 +1,16 @@
-#Website Name: My Favourite Things Website
+## Website Name: My Favourite Things Website
 This is my pet's basic website created during Moringa Prep.Date: 1st August 2018
 By: Donald Kiplagat
 
-##Description
+## Description
 Doesn't do much really. Just a few basic lines of code. Gives a detailed description of the things I like doing.
 
-##Setup/Installation Requirements
+## Setup/Installation Requirements
 * Copy and Paste the html file where you want brethren(lol)
 * After that,just open it,nothing complex about it.
  
 As long as you have a browser the document will work
-#Known Bugs
+# Known Bugs
 Truthfully you can be hacked by the simplest of methods so Godspeed my friend.
 ## Technologies Used
 HTML was used in making the skeleton of the website
